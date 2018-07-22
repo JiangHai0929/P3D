@@ -1,0 +1,6 @@
+﻿LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+SimConnect.lib(client.obj) : warning LNK4099: 未找到 PDB“sim.pdb”(使用“SimConnect.lib(client.obj)”或在“E:\code\INPUT\x64\Debug\sim.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SimConnect.lib(commClient.obj) : warning LNK4099: 未找到 PDB“sim.pdb”(使用“SimConnect.lib(commClient.obj)”或在“E:\code\INPUT\x64\Debug\sim.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SimConnect.lib(SimConnectClient.obj) : warning LNK4099: 未找到 PDB“sim.pdb”(使用“SimConnect.lib(SimConnectClient.obj)”或在“E:\code\INPUT\x64\Debug\sim.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  input.vcxproj -> E:\code\INPUT\x64\Debug\input.exe
+  input.vcxproj -> E:\code\INPUT\x64\Debug\input.pdb (Partial PDB)
